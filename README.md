@@ -36,6 +36,8 @@
 
 5. Depois disso você está pronto para criar seus códigos do projeto
 
+6. Execute `npm publish` para publicar o pacote no Github Packages
+
 # Instalando o pacote
 
 1. Crie um arquivo .npmrc na raíz do projeto

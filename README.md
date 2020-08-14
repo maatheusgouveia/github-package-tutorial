@@ -2,7 +2,7 @@
 
 1. Criar um repositório no github seguindo o procedimento padrão.
 
-   1.1 A pasta obrigatóriamente tem que ser um repositório válido do GitHub.
+   1.1 A pasta obrigatoriamente tem que ser um repositório válido do GitHub.
 
    1.2 O comando npm init deverá ser executado apenas quando o repositório estiver devidamente
    configurado, pois é necessário que o package.json contenha as informações do repositório
